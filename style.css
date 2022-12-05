@@ -1,0 +1,39 @@
+* {
+  font-family: sans-serif;
+}
+/* title section styles */
+.welcome {
+  background-color: rgb(188, 176, 176);
+  color: white;
+  text-align: center;
+  color: black;
+  padding: 1.2em;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
+#image {
+  margin-top: 2em;
+}
+
+#img-div {
+  background-color: rgb(255, 255, 255);
+  padding: 2em;
+}
+/* time line section */
+.timeLine {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+}
+li {
+  line-height: 2em;
+  color: rgb(87, 87, 87);
+}
